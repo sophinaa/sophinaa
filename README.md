@@ -33,3 +33,4 @@ jjs_ ___ _LT_l_l/|__|__l_T _T_L|_|_|l/___|_ _|__l__|__|__|_T_l_  __
 
 
 
+(https://github-readme-stats.vercel.app/api/top-langs/?sophinaa=anuraghazra&stats_format=bytes)
