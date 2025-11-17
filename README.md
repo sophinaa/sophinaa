@@ -64,10 +64,6 @@ jjs_ ___ _LT_l_l/|__|__l_T _T_L|_|_|l/___|_ _|__l__|__|__|_T_l_  __
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### Currently Learning
-![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-0066CC?style=for-the-badge)
-![Database Systems](https://img.shields.io/badge/Database_Systems-336791?style=for-the-badge)
-![Cloud Architecture](https://img.shields.io/badge/Cloud_Architecture-FF9900?style=for-the-badge)
 
 ##  GitHub Stats
 
