@@ -5,10 +5,10 @@
         /     __   \                                               
           /   _ -    |                                            Hello, I am Sophina
       | '  | (_)  |                        _L/L                     -----------------------------
-         |  __  /   /                    _LT/l_L_                    I am currently a third year student .
-        \ \  __  /                     _LLl/L_T_lL_                  BSc Computer Science with Data Science and AI at the University of Dundee.
-            -      _T/L              _LT|L/_|__L_|_L_            
-                 _Ll/l_L_          _TL|_T/_L_|__T__|_l_           
+         |  __  /   /                    _LT/l_L_                    I am currently in my penultimate year !
+        \ \  __  /                     _LLl/L_T_lL_                  BSc Computer Science 
+            -      _T/L              _LT|L/_|__L_|_L_                w\Data Science and AI 
+                 _Ll/l_L_          _TL|_T/_L_|__T__|_l_              @The University of Dundee.
                _TLl/T_l|_L_      _LL|_Tl/_|__l___L__L_|L_                        
              _LT_L/L_|_L_l_L_  _'|_|_|T/_L_l__T _ l__|__|L_       
            _Tl_L|/_|__|_|__T _LlT_|_Ll/_l_ _|__[ ]__|__|_l_L_                  
