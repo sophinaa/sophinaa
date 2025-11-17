@@ -32,11 +32,8 @@ jjs_ ___ _LT_l_l/|__|__l_T _T_L|_|_|l/___|_ _|__l__|__|__|_T_l_  __
 ```
 
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -72,11 +69,8 @@ jjs_ ___ _LT_l_l/|__|__l_T _T_L|_|_|l/___|_ _|__l__|__|__|_T_l_  __
 ![Database Systems](https://img.shields.io/badge/Database_Systems-336791?style=for-the-badge)
 ![Cloud Architecture](https://img.shields.io/badge/Cloud_Architecture-FF9900?style=for-the-badge)
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
-<a href="https://github.com/sophinaa">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sophinaa&show_icons=true&theme=radical" />
-</a>
 <a href="https://github.com/sophinaa">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophinaa&layout=compact&langs_count=8&card_width=320" />
 </a>
