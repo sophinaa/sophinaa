@@ -21,8 +21,8 @@ jjs_ ___ _LT_l_l/|__|__l_T _T_L|_|_|l/___|_ _|__l__|__|__|_T_l_  __
                        .:. ..   . ::.. .: ::. ::::.:: ::::::.   .                    
                        .  :.         .. :::.::: ::.::::. ::. .                       
                          . .           .:. :.. :::. ::..: :.           Contact me
-             nn_r   nn_r   .              :  .:::.:: ::..:  .               Email:     sophina0212@gmail.com
-            /l(\   /l)\      nn_r          . ::. :. : : ..                  Linkedin:  www.linkedin.com/in/sophinaa
+             nn_r   nn_r   .              :  .:::.:: ::..:  .             Email:     sophina0212@gmail.com
+            /l(\   /l)\      nn_r          . ::. :. : : ..                Linkedin:  www.linkedin.com/in/sophinaa
 
             `'"``  ``"``    /\(\              . . .:. . : . 
                             ' "``                  . :. .        
