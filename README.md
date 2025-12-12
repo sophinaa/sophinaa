@@ -66,6 +66,7 @@ jjs_ ___ _LT_l_l/|__|__l_T _T_L|_|_|l/___|_ _|__l__|__|__|_T_l_  __
 
 
 ## 📊 GitHub Language Stats
-![Top Langs](https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=sophinaa&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=sophinaa&layout=compact&theme=tokyonight)
+
 
 
