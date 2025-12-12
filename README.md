@@ -1,4 +1,7 @@
  ### // **About Me**
+
+ ![Profile Views](https://komarev.com/ghpvc/?username=sophinaa&color=blue&style=flat)
+
  ```haskell
                                                     
             __ -                                                   
