@@ -8,8 +8,8 @@
         /     __   \                                               
           /   _ -    |                                            Hello, I am Sophina
       | '  | (_)  |                        _L/L                     -----------------------------
-         |  __  /   /                    _LT/l_L_                    I am currently in my penultimate year !
-        \ \  __  /                     _LLl/L_T_lL_                  BSc Computer Science 
+         |  __  /   /                    _LT/l_L_                    I am currently in my penultimate year of
+        \ \  __  /                     _LLl/L_T_lL_                  BSc (hons) Computer Science 
             -      _T/L              _LT|L/_|__L_|_L_                w\Data Science and AI 
                  _Ll/l_L_          _TL|_T/_L_|__T__|_l_              @The University of Dundee.
                _TLl/T_l|_L_      _LL|_Tl/_|__l___L__L_|L_            Incoming SWE inten @ Barclays
