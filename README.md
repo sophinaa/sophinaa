@@ -63,3 +63,9 @@ jjs_ ___ _LT_l_l/|__|__l_T _T_L|_|_|l/___|_ _|__l__|__|__|_T_l_  __
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+## 📊 GitHub Language Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophinaa&layout=compact&theme=tokyonight)
+
