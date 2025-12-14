@@ -75,5 +75,9 @@ jjs_ ___ _LT_l_l/|__|__l_T _T_L|_|_|l/___|_ _|__l__|__|__|_T_l_  __
 ## 📈 GitHub Stats
 ![Sophina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sophinaa&show_icons=true&theme=tokyonight)
 
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=sophinaa&theme=tokyonight)
+
+
 
 
