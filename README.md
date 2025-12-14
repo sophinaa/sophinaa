@@ -68,15 +68,13 @@ jjs_ ___ _LT_l_l/|__|__l_T _T_L|_|_|l/___|_ _|__l__|__|__|_T_l_  __
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## 📊 GitHub Stats
 
-## 📊 GitHub Language Stats
-![Top Langs](https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=sophinaa&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sophinaa&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=sophinaa&layout=compact&theme=tokyonight" height="165" />
+</p>
 
-## 📈 GitHub Stats
-![Sophina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sophinaa&show_icons=true&theme=tokyonight)
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=sophinaa&theme=tokyonight)
 
 
 
